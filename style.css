@@ -1,0 +1,22 @@
+#abc {
+    width: 100%;
+    background-color: rgb(218, 168, 218);
+    padding-bottom: 50;
+    padding-top: 10;
+    font-size: 30px !important;
+    box-shadow: 5px 5px 5px red;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px dotted black;
+}
